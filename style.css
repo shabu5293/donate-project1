@@ -1,0 +1,34 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Serif', serif;
+    margin: 0px;
+
+}
+
+.first-h {
+    font-size: 50px;
+}
+
+.first-p {
+    font-size: 20px
+}
+
+.header-div {
+    color: red;
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.donate-button {
+    text-decoration: none;
+    background-color: orangered;
+    padding: 15px 40px;
+    border-radius: 10px;
+    font-weight: 700px;
+    color: white;
+}
+
+.top-banner {
+    background-image: url(images/bi-1.jpg);
+}
