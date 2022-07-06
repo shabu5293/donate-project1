@@ -4,12 +4,24 @@ body {
     margin: 0;
 }
 
-.first-h {
+.first-headline {
     font-size: 50px;
+    text-align: center;
+    font-weight: 700px;
 }
 
-.first-p {
+.first-paragraph {
     font-size: 20px
+}
+
+.top-part {
+    color: white;
+    text-align: center;
+    padding: 15% 30% 15% 30%;
+    background-image: url(images/bi-1.jpg);
+    background-position: 100%;
+    height: 200px;
+    background-size: cover;
 }
 
 .donate-button {
@@ -21,12 +33,71 @@ body {
     color: white;
 }
 
-.top-part {
-    color: white;
+.second-part {
+    margin-top: 100px;
+}
+
+.second-headline {
+    font-size: 50px;
     text-align: center;
-    padding: 10% 30% 10% 30%;
-    background-image: url(images/bi-1.jpg);
-    background-position: 100%;
-    height: 500px;
-    background-size: cover;
+    font-weight: 700px;
+}
+
+.second-paragraph {
+    font-size: 20px;
+    text-align: center;
+    padding: 0 30% 0 30%;
+}
+
+.card1 {
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.card-p {
+    font-size: 30px;
+}
+
+.card-part {
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.card-different {
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    text-align: center;
+    border: 5px;
+}
+
+.card-description {
+    color: cornflowerblue;
+}
+
+.input-amount {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.third-part {
+    margin-top: 100px;
+}
+
+.third-headline {
+    font-size: 50px;
+    text-align: center;
+    font-weight: 700px;
+}
+
+.third-paragraph {
+    font-size: 20px;
+    text-align: center;
+    padding: 0 30% 0 30%;
 }
