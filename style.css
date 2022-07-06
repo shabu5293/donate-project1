@@ -228,10 +228,6 @@ hr {
     border: 2px solid #ff5959;
 }
 
-.newsletter-input::placeholder {
-    font-size: 16px;
-}
-
 .newsletter-button {
     text-decoration: none;
     background-color: #ff5959;
